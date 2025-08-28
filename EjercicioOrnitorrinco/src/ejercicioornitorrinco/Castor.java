@@ -17,14 +17,14 @@ public class Castor {
     
     
     public void nadar(){
-        
+        System.out.println("Castor esta nadando!");
         
         
     }
     
     
     public void tocarGuitarra(){
-        
+        System.out.println("Castor esta tocando la guitarra");
         
     }
     
