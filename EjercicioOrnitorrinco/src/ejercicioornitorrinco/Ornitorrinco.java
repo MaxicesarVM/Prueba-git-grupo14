@@ -33,7 +33,7 @@ public class Ornitorrinco extends Castor implements MamaPata {
         System.out.println("Se propulsa");
 
     }
-
+//Acá se aplicó el comparador de quién es más rápido
     public static void comparadorDeNadador(ArrayList<Ornitorrinco> veloz) {
         Comparator<Ornitorrinco> comparadorporNadador = new Comparator<Ornitorrinco>() {
             @Override
