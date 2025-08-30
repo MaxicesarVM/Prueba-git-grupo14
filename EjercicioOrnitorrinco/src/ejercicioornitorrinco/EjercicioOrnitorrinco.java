@@ -53,6 +53,7 @@ public class EjercicioOrnitorrinco {
             }
         
         }
+        //muestra mejores nadadores ordenados
         Ornitorrinco.comparadorDeNadador(nadadores);
          for (Ornitorrinco nadadore : nadadores) {
              nadadore.datosOrnitorrinco(nadadore);
